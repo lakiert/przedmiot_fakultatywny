@@ -1,4 +1,4 @@
 # przedmiot_fakultatywny Visimind
 
-Aleksandra Ląkiert
+Aleksandra Ląkiert  
 numer indexu: 163090
